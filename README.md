@@ -49,6 +49,6 @@ sass --watch style.scss:style.css
 <br>
 
 <p align="center">
-<img align="right" alt="Coding" width="800" src="https://s2.ezgif.com/tmp/ezgif-2-ce008c4439.gif">
+<img alt="Coding" width="800" src="https://s2.ezgif.com/tmp/ezgif-2-ce008c4439.gif">
 </p>
 
