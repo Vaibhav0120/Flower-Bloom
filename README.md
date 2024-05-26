@@ -44,6 +44,15 @@ sass --watch style.scss:style.css
 
 <br>
 
+<h3 Align="center">NOTE: This Reposatory Has Already Map SCSS File</h3>
+
+<br> 
+
+<p>No Need To Perform Above Steps In This File.Those Steps Are Tutorial On How To Make Your Own Flower Bloom.
+If You Just Want Working Code You Can Clone This Repositories And Run This Like Any Other HTML File.</p>
+
+<br>
+
 <h2 align="center">Clip Preview</h2>
 
 <br>
