@@ -48,8 +48,8 @@ sass --watch style.scss:style.css
 
 <br> 
 
-<p>No Need To Perform Above Steps In This File.Those Steps Are Tutorial On How To Make Your Own Flower Bloom.</p>
-<p>If You Just Want Working Code You Can Clone This Repositories And Run This Like Any Other HTML File.</p>
+<p Align="center">No Need To Perform Above Steps In This File.Those Steps Are Tutorial On How To Make Your Own Flower Bloom.</p>
+<p Align="center">If You Just Want Working Code You Can Clone This Repositories And Run This Like Any Other HTML File.</p>
 
 <br>
 
