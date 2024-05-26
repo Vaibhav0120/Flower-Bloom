@@ -15,6 +15,7 @@ https://nodejs.org/en
 <br> 
 
 <h3>2. Clone Original Files From GitHub </h3>
+<p>Paste This In Your Terminal In VSCode</p>
 
 ```
 $ git clone https://github.com/naveen-kumawat/Flower.git
@@ -23,7 +24,7 @@ $ git clone https://github.com/naveen-kumawat/Flower.git
 <br>
 
 <h3>3. Download Ruby for the SCSS </h3>
-After Installing Node.js, Copy Paste This In Your CMD
+<p>After Installing Node.js, Copy Paste This In Your CMD</p>
 
 ```
 npm install -g sass
