@@ -22,7 +22,7 @@ $ git clone https://github.com/naveen-kumawat/Flower.git
 
 <br>
 
-<h3>3. Downlode Ruby for the SCSS </h3>
+<h3>3. Download Ruby for the SCSS </h3>
 
 ```
 npm install -g sass
