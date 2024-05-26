@@ -46,14 +46,14 @@ sass --watch style.scss:style.css
 
 <br>
 
-<h3 Align="center">NOTE: This Reposatory Has Already Map SCSS File</h3>
+<h3 align="center">NOTE: This Reposatory Has Already Map SCSS File</h3>
 
 <br> 
 
-<p Align="center">No Need To Perform Above Steps In This File.Those Steps Are Tutorial On How To Make Your Own Flower Bloom.</p>
-<p Align="center">If You Just Want Working Code You Can Clone This Repositories And Run This Like Any Other HTML File.</p>
+<p align="center">No Need To Perform Above Steps In This File.Those Steps Are Tutorial On How To Make Your Own Flower Bloom.</p>
+<p align="center">If You Just Want Working Code You Can Clone This Repositories And Run This Like Any Other HTML File.</p>
 
-<h4 Aign="center">Clone Link For Just Working Code</h4>
+<h4 align="center">Clone Link For Just Working Code</h4>
 
 ```
 git clone https://github.com/Vaibhav0120/Flower-Bloom.git
