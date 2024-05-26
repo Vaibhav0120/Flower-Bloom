@@ -23,6 +23,7 @@ $ git clone https://github.com/naveen-kumawat/Flower.git
 <br>
 
 <h3>3. Download Ruby for the SCSS </h3>
+After Installing Node.js, Copy Paste This In Your CMD
 
 ```
 npm install -g sass
