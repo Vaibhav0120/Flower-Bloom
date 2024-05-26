@@ -1,9 +1,12 @@
 <h1 align="center">Flower Bloom</h1>
-This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
 
-<h3 align="center"> How To Build Your Own Flower Bloom </h3>
+<h3 align="center">This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.</h3>
 
-<h4>1. Install Node.js From Browser</h4>
+<br>
+
+<h2 align="center"> How To Build Your Own Flower Bloom </h2>
+
+<h3>1. Install Node.js From Browser</h3>
 
 ```
 https://nodejs.org/en
@@ -11,7 +14,7 @@ https://nodejs.org/en
 
 <br> 
 
-<h4>2. Clone Original Files From GitHub </h4>
+<h3>2. Clone Original Files From GitHub </h3>
 
 ```
 $ git clone https://github.com/naveen-kumawat/Flower.git
@@ -19,7 +22,7 @@ $ git clone https://github.com/naveen-kumawat/Flower.git
 
 <br>
 
-<h4>3. Downlode Ruby for the SCSS </h4>
+<h3>3. Downlode Ruby for the SCSS </h3>
 
 ```
 npm install -g sass
