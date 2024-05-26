@@ -1,7 +1,7 @@
-<h1 align="center">Flower Blome</h1>
+<h1 align="center">Flower Bloom</h1>
 This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.
 
-<h3 align="center"> How To Run Program </h3>
+<h3 align="center"> How To Build Your Own Flower Bloom </h3>
 
 <h4>1. Install Node.js From Browser</h4>
 
