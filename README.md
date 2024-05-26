@@ -18,7 +18,7 @@ https://nodejs.org/en
 <p>Paste This In Your Terminal In VSCode</p>
 
 ```
-$ git clone https://github.com/naveen-kumawat/Flower.git
+git clone https://github.com/naveen-kumawat/Flower.git
 ```
 
 <br>
