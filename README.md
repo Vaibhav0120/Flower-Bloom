@@ -28,7 +28,8 @@ Also map js file with html file
 Project run successfully
 
 
-![flower](https://user-images.githubusercontent.com/63699592/236506187-282f2dc3-cbcb-447c-81f4-63b127233ab9.png)
+![flower](https://github.com/Vaibhav0120/Flower-Blome/assets/150184948/3a265153-f07f-4ccc-8cd8-5bfdaa559e12)
+
 
 
 install jsnode from chrome
