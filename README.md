@@ -3,24 +3,31 @@ This repository contains examples and tutorials for the web technologies HTML, S
 
 <h3 align="center"> How To Run Program </h3>
 
-<h4>Install Node.js From Browser</h4>
+<h4>1. Install Node.js From Browser</h4>
 
 ```
 https://nodejs.org/en
 ```
-<h4> Clone Original Files From GitHub </h4>
+
+<br> 
+
+<h4>2. Clone Original Files From GitHub </h4>
+
 ```
 $ git clone https://github.com/naveen-kumawat/Flower.git
 ```
 
-<h4> Downlode Ruby for the SCSS </h4>
+<br>
+
+<h4>3. Downlode Ruby for the SCSS </h4>
 
 ```
 npm install -g sass
 ```
 
+<br>
 
-<h4> Map SCSS file with HTML </h4>
+<h4>4. Map SCSS file with HTML </h4>
 
 <h5>Step 1</h5>
 Go To CMD and type "cd {location of the flower index.html file}"
@@ -30,6 +37,8 @@ Go To CMD and type "cd {location of the flower index.html file}"
 ```
 sass --watch style.scss:style.css
 ```
+
+<br>
 
 <h2 align="centre">Clip Preview</h2>
 
