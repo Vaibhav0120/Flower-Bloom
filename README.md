@@ -36,7 +36,8 @@ npm install -g sass
 
 <h4> Step 1 </h4>
 
-<h5> Go To CMD and type "cd {location of the flower index.html file}" </h5>
+<h5> Go To CMD and type "cd {location of the flower files}" </h5>
+Example of location = C:\Users\lenovo\Documents\Visual Studio Code\Flower
 
 <h4> Step 2 </h4>
 
