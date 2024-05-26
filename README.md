@@ -30,12 +30,13 @@ npm install -g sass
 
 <br>
 
-<h4>4. Map SCSS file with HTML </h4>
+<h3>4. Map SCSS file with HTML </h3>
 
-<h5>Step 1</h5>
-Go To CMD and type "cd {location of the flower index.html file}"
+<h4> Step 1 </h4>
 
-<h5>Step 2</h5>
+<h5> Go To CMD and type "cd {location of the flower index.html file}" </h5>
+
+<h4> Step 2 </h4>
 
 ```
 sass --watch style.scss:style.css
@@ -43,7 +44,7 @@ sass --watch style.scss:style.css
 
 <br>
 
-<h2 align="centre">Clip Preview</h2>
+<h2 align="center">Clip Preview</h2>
 
 <br>
 
