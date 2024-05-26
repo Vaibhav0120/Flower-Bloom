@@ -35,7 +35,7 @@ Also map js file with html file
 
 Project run successfully
 
-<img align="right" alt="Coding" width="400" src="https://s2.ezgif.com/tmp/ezgif-2-ce008c4439.gif">
-https://github.com/Vaibhav0120/Flower-Blome/assets/150184948/3a265153-f07f-4ccc-8cd8-5bfdaa559e12
-<img>
+<p align="center">
+<img align="right" alt="Coding" width="800" src="https://s2.ezgif.com/tmp/ezgif-2-ce008c4439.gif">
+</p>
 
